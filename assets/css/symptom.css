@@ -1,0 +1,43 @@
+.table-sympton .thead-sympton {
+    display: none;
+  }
+  .nav-link {
+    padding: 13px 37px;
+  }
+  .table-sympton .tbody-sympton {
+    width: 100%;
+    height: auto;
+    position: fixed;
+    overflow: scroll;
+    max-height: 100%;
+    top: 130px;
+  }
+  .table-sympton .tbody-sympton tr {
+    width: 100%;
+    height: 59px;
+    padding: 20px 28px;
+    border-bottom: 1px solid #e6f2fe;
+    cursor: pointer;
+  }
+  .table.b-table > tbody > .table-active > td {
+    background-color: #f1f8ff;
+  }
+  .table-sympton .tbody-sympton td {
+    font-family: 'Anuphan-Regular';
+    font-size: 14px;
+    color: #4f5358;
+    line-height: 18px;
+    text-align: left;
+    vertical-align: middle;
+    border: none;
+  }
+  .v-text-field.v-text-field--solo:not(.v-text-field--solo-flat) > .v-input__control > .v-input__slot {
+    box-shadow: none;
+}
+.v-input__slot {
+   margin-bottom: 0;
+}
+.v-progress-circular {
+  margin: 70% 47%;
+  color: #3ba9fc;
+}

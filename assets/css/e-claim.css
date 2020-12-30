@@ -1,0 +1,7 @@
+.b-form-btn-label-control.form-control > label {
+  padding: 14px 0;
+  line-height: 1;
+}
+.custom-file-label {
+  display: none;
+}

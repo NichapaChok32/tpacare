@@ -1,0 +1,50 @@
+.v-text-field.v-text-field--solo:not(.v-text-field--solo-flat) > .v-input__control > .v-input__slot {
+  box-shadow: none;
+}
+.v-input__slot {
+ margin-bottom: 0;
+}
+.v-text-field.v-text-field--solo .v-input__control {
+  min-height: 45px;
+}
+#carouselImgArticle > .v-carousel__controls {
+  top: 190px;
+  width: 100%;
+  height: fit-content;
+  margin: 0 auto;
+  background-color: transparent;
+  padding: 0 28px;
+}
+#carouselImgArticle > .v-carousel__controls > .v-item-group > .v-carousel__controls__item {
+  margin: 0;
+}
+#carouselImgArticle > .v-carousel__controls > .v-item-group > .v-btn > .v-btn__content > .v-icon {
+  font-size: 8px !important;
+  opacity: 1;
+}
+#carouselImgArticle > .v-carousel__controls > .v-item-group > .v-btn--active > .v-btn__content > .v-icon:before {
+  content: "\e90c";
+  color: #3ba9fe;
+}
+#carouselImgArticle  > .v-carousel__controls {
+  top: 350px;
+  width: 100%;
+  height: fit-content;
+  margin: 0 auto;
+  background-color: transparent;
+  padding: 0 28px;
+}
+#carouselImgArticle > .v-carousel__controls > .v-item-group > .v-carousel__controls__item {
+  margin: 0;
+}
+#carouselImgArticle > .v-carousel__controls > .v-item-group > .v-btn > .v-btn__content > .v-icon {
+  font-size: 8px !important;
+  opacity: 1;
+}
+#carouselImgArticle > .v-carousel__controls > .v-item-group > .v-btn--active > .v-btn__content > .v-icon:before {
+  content: "\e90c";
+  color: #3ba9fe;
+}
+.article-img > .v-image__image--cover {
+  background-size: contain;
+}

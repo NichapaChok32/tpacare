@@ -1,0 +1,200 @@
+.custom-file {
+  display: none;
+}
+.txtEditCard  > .v-input__control {
+  height: 45px;
+}
+.txtEditCard > .v-input__control > .v-input__slot {
+  padding: 14px 24px 13px;
+  margin-bottom: 0;
+  min-height: 45px;
+  max-height: 45px;
+  background-color: #fff;
+}
+.txtEditCard.v-text-field--outlined fieldset {
+  position: relative;
+  display: none;
+}
+.txtEditCard.theme--light.v-text-field > .v-input__control > .v-input__slot:before {
+  border: none;
+}
+.txtEditCard.v-text-field > .v-input__control > .v-input__slot > .v-text-field__slot {
+  font-family: "Anuphan-Regular";
+  font-size: 14px;
+  line-height: 18px;
+}
+.txtEditCard.v-text-field--outlined .v-label {
+  top: 0;
+  margin-bottom: 0;
+  font-family: "Anuphan-Regular";
+  font-size: 14px;
+  line-height: 18px;
+  color: #617D8C;
+}
+.txtEditCard.v-text-field.v-text-field--enclosed .v-text-field__details {
+  display: none;
+}
+.txtEditCard.v-text-field input {
+  padding: 0;
+}
+.txtDatePicker.v-text-field--enclosed .v-input__append-inner {
+  margin: auto 0;
+}
+.txtDatePicker.v-text-field--enclosed .v-input__append-inner > .v-input__icon > .v-icon.v-icon {
+  color: #2F2E41;
+}
+.txtDatePicker.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)  > .v-input__control {
+  height: 45px;
+}
+.txtDatePicker.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)  > .v-input__control > .v-input__slot {
+  padding: 12px 11px 11px 24px;
+  margin-bottom: 0;
+  min-height: 45px;
+  max-height: 45px;
+  background-color: #fff;
+}
+.txtDatePicker.v-text-field--outlined fieldset {
+  position: relative;
+  display: none;
+}
+.txtDatePicker.v-text-field--outlined .v-label {
+  top: 0;
+  margin-bottom: 0;
+  font-family: "Anuphan-Regular";
+  font-size: 14px;
+  line-height: 18px;
+  color: #617D8C;
+}
+.txtDatePicker.v-text-field.v-text-field--enclosed .v-text-field__details {
+  display: none;
+}
+.txtDatePicker.v-text-field input {
+  padding: 0;
+  font-family: "Anuphan-Regular";
+  font-size: 14px;
+  line-height: 18px;
+}
+.pickerDateEdit .v-picker {
+  width: auto;
+}
+.pickerDateEdit .v-picker__title {
+  background-color: #3ba9fe;
+}
+.pickerDateEdit .v-date-picker-title__year {
+  font-family: 'Anuphan-Regular';
+  font-size: 14px;
+  text-align: left;
+  line-height: 18px;
+  color: #fff;
+  opacity: 1 !important;
+}
+.pickerDateEdit .v-date-picker-title__date {
+  font-family: 'Anuphan-Regular';
+  font-size: 22px;
+  text-align: left;
+  line-height: 28px;
+  color: #fff;
+  opacity: 1 !important;
+}
+.pickerDateEdit .v-menu__content {
+  min-width: auto !important;
+}
+.pickerDateEdit .v-date-picker-header__value button {
+  font-family: 'Anuphan-Regular';
+  font-size: 16px;
+  text-align: left;
+  line-height: 20px;
+  color: #000;
+}
+.pickerDateEdit .theme--light.v-date-picker-table th, .theme--light.v-date-picker-table .v-date-picker-table--date__week {
+  font-family: 'Anuphan-Regular';
+  font-size: 14px;
+  line-height: 18px;
+}
+.pickerDateEdit .v-date-picker-table .v-btn {
+  font-family: 'Anuphan-Regular';
+  line-height: 20px;
+}
+.pickerDateEdit .v-date-picker-table {
+  padding: 8px 12px 12px;
+  height: auto;
+}
+.pickerDateEdit .v-date-picker-years li {
+  font-family: 'Anuphan-Regular';
+  font-size: 14px;
+  line-height: 18px;
+}
+.pickerDateEdit .theme--light.v-btn:not(.v-btn--flat):not(.v-btn--text):not(.v-btn--outlined) {
+  background-color: #3ba9fe;
+}
+.pickerDateEdit .v-date-picker-table .v-btn.v-btn--active {
+  background-color: #3ba9fe;
+}
+.v-progress-circular {
+  margin: 80% 47%;
+  color: #3ba9fc;
+}
+#PopUp {
+  padding: 30px 0 10px;
+}
+#PopUpDelete {
+  padding: 30px 0 0;
+}
+#PopUp > .popup-header, #PopUpDelete > .popup-header {
+    margin: 0 auto 11px;
+    padding: 0 35px;
+    text-align: center;
+    border: none;
+}
+#PopUp > .popup-header > .icon-header, #PopUpDelete > .popup-header > .icon-header {
+      width: 50px;
+      height: 50px;
+      margin: 0 auto;
+}
+#PopUp > .popup-body, #PopUpDelete > .popup-body {
+    margin: 0 auto 20px;
+    padding: 0 35px;
+    text-align: center;
+    font-family: 'Anuphan-Regular';
+    font-size: 16px;
+    color: #000;
+    line-height: 24px;
+}
+#PopUp > .v-card__actions {
+  padding: 0 35px;
+  height: fit-content;
+}
+#PopUp > .v-card__actions > .modal-default-button, #PopUpDelete > .v-card__actions > .modal-default-button {
+  text-align: center;
+  background: none;
+  border: none;
+  margin: 0 auto;
+  padding: 0;
+  letter-spacing: 0;
+  width: 50%;
+}
+#PopUp > .v-card__actions > .modal-default-button .lbBtnPopUp, #PopUpDelete > .v-card__actions > .modal-default-button .lbBtnPopUp {
+  font-family: 'Anuphan-Regular';
+  font-size: 18px;
+  color: #3ba9fe;
+  line-height: 23px;
+}
+#PopUpDelete > .v-card__actions {
+  width: 100%;
+  padding: 0;
+  margin: 0 auto;
+  text-align: center;
+}
+.v-dialog {
+  width: 100%;
+  max-height: 100%;
+}
+#PopUpDelete > .v-card__actions > .v-divider--vertical {
+  height: 45px;
+  margin: 0;
+  border: 0.5px solid #D4C8C8;
+}
+#PopUpDelete > .v-divider {
+  margin-bottom: 0;
+  border: 0.5px solid #D4C8C8;
+}

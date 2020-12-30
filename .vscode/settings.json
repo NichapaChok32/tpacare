@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7be94ed2-ba91-4b87-bd89-1a3050b2c301/resourceGroups/TPACare/providers/Microsoft.Web/sites/tpacare-v2-webfront-dev",
+    "appService.deploySubpath": "dist"
+}

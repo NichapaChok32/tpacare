@@ -1,0 +1,49 @@
+.table-provider .thead-provider {
+    display: none;
+  }
+  .nav-link {
+    padding: 13px 37px;
+  }
+  .table-provider .tbody-provider {
+    width: 100%;
+    height: auto;
+    max-height: 600px;
+    position: fixed;
+    overflow: scroll;
+    top: 150px;
+  }
+  .search .tbody-provider {
+    top: 178px;
+  }
+  .table-provider .tbody-provider tr {
+    width: 100%;
+    height: 59px;
+    padding: 20px 15px;
+    margin: 0 auto;
+    border-bottom: 1px solid #e6f2fe;
+    text-align: left;
+    display: inline-table;
+  }
+  .table.b-table > tbody > .table-active > td {
+    background-color: #f1f8ff;
+  }
+  .table-provider .tbody-provider td {
+    width: 100% !important;
+    font-family: 'Anuphan-Regular';
+    font-size: 14px;
+    color: #4f5358;
+    line-height: 18px;
+    text-align: left !important;
+    vertical-align: middle;
+    border: none;
+  }
+  .v-text-field.v-text-field--solo:not(.v-text-field--solo-flat) > .v-input__control > .v-input__slot {
+    box-shadow: none;
+}
+.v-input__slot {
+   margin-bottom: 0;
+}
+.v-progress-circular {
+  margin: 90% 46%;
+  color: #3ba9fc;
+}

@@ -1,0 +1,50 @@
+.custom-file {
+  display: none;
+}
+.v-progress-circular {
+  margin: 80% 47%;
+  color: #3ba9fc;
+}
+#PopUp {
+  padding: 30px 0 10px;
+}
+#PopUpDelete {
+  padding: 30px 0 0;
+}
+#PopUp > .popup-header, #PopUpDelete > .popup-header {
+    margin: 0 auto 11px;
+    padding: 0 35px;
+    text-align: center;
+    border: none;
+}
+#PopUp > .popup-header > .icon-header, #PopUpDelete > .popup-header > .icon-header {
+  max-width: 90px;
+  max-height: 40px;
+  margin: 0 auto;
+}
+#PopUp > .popup-body, #PopUpDelete > .popup-body {
+    margin: 0 auto 20px;
+    padding: 0 35px;
+    text-align: center;
+    font-family: 'Anuphan-Regular';
+    font-size: 16px;
+    color: #000;
+    line-height: 24px;
+}
+#PopUp > .v-card__actions {
+  padding: 0 35px;
+  height: fit-content;
+}
+#PopUp > .v-card__actions > .modal-default-button, #PopUpDelete > .v-card__actions > .modal-default-button {
+    font-family: 'Anuphan-Regular';
+    font-size: 18px;
+    color: #3ba9fe;
+    line-height: 23px;
+    text-align: center;
+    background: none;
+    border: none;
+    margin: 0 auto;
+    padding: 0;
+    letter-spacing: 0;
+    width: 50%;
+}

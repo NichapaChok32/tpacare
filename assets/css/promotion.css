@@ -1,0 +1,50 @@
+.v-text-field.v-text-field--solo:not(.v-text-field--solo-flat) > .v-input__control > .v-input__slot {
+  box-shadow: none;
+}
+.v-input__slot {
+ margin-bottom: 0;
+}
+.v-text-field.v-text-field--solo .v-input__control {
+  min-height: 45px;
+}
+#carouselImgPromotion > .v-carousel__controls {
+  top: 190px;
+  width: 100%;
+  height: fit-content;
+  margin: 0 auto;
+  background-color: transparent;
+  padding: 0 28px;
+}
+#carouselImgPromotion > .v-carousel__controls > .v-item-group > .v-carousel__controls__item {
+  margin: 0;
+}
+#carouselImgPromotion > .v-carousel__controls > .v-item-group > .v-btn > .v-btn__content > .v-icon {
+  font-size: 8px !important;
+  opacity: 1;
+}
+#carouselImgPromotion > .v-carousel__controls > .v-item-group > .v-btn--active > .v-btn__content > .v-icon:before {
+  content: "\e90c";
+  color: #3ba9fe;
+}
+#carouselImgShowPromotion  > .v-carousel__controls {
+  top: 350px;
+  width: 100%;
+  height: fit-content;
+  margin: 0 auto;
+  background-color: transparent;
+  padding: 0 28px;
+}
+#carouselImgShowPromotion > .v-carousel__controls > .v-item-group > .v-carousel__controls__item {
+  margin: 0;
+}
+#carouselImgShowPromotion > .v-carousel__controls > .v-item-group > .v-btn > .v-btn__content > .v-icon {
+  font-size: 8px !important;
+  opacity: 1;
+}
+#carouselImgShowPromotion > .v-carousel__controls > .v-item-group > .v-btn--active > .v-btn__content > .v-icon:before {
+  content: "\e90c";
+  color: #3ba9fe;
+}
+.promo-img > .v-image__image--cover {
+  background-size: contain;
+}

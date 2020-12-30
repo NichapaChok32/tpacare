@@ -1,0 +1,52 @@
+#CarouselClaim > .v-carousel__controls {
+  top: 185px;
+  width: 100%;
+  height: fit-content;
+  margin: 0 auto;
+  background-color: #F1F8FF;
+  padding: 0 28px;
+}
+#CarouselClaim > .v-carousel__controls > .v-item-group > .v-carousel__controls__item {
+  margin: 0;
+}
+#CarouselClaim > .v-carousel__controls > .v-item-group > .v-btn > .v-btn__content > .v-icon {
+  font-size: 8px !important;
+  opacity: 1;
+}
+#CarouselClaim > .v-carousel__controls > .v-item-group > .v-btn--active > .v-btn__content > .v-icon:before {
+  content: "\e90c";
+  color: #3ba9fe;
+}
+#CarouselClaim.cardInapp {
+  height: 230px !important;
+}
+#CarouselClaim.cardInapp .carousel-indicators {
+  bottom: 0;
+}
+#CarouselClaim.notIndicator > .v-carousel__controls {
+  display: none;
+}
+#CarouselClaim .carousel-indicators {
+  bottom: 13px;
+  margin-bottom: 5px;
+  height: 8px;
+}
+#carouselImgShowEclaim  > .v-carousel__controls {
+  top: 500px;
+  width: 100%;
+  height: fit-content;
+  margin: 0 auto;
+  background-color: transparent;
+  padding: 0 28px;
+}
+#carouselImgShowEclaim > .v-carousel__controls > .v-item-group > .v-carousel__controls__item {
+  margin: 0;
+}
+#carouselImgShowEclaim > .v-carousel__controls > .v-item-group > .v-btn > .v-btn__content > .v-icon {
+  font-size: 8px !important;
+  opacity: 1;
+}
+#carouselImgShowEclaim > .v-carousel__controls > .v-item-group > .v-btn--active > .v-btn__content > .v-icon:before {
+  content: "\e90c";
+  color: #3ba9fe;
+}

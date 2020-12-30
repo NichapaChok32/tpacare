@@ -1,0 +1,54 @@
+.table-insurance .thead-insurance {
+   display: none;
+}
+.nav-link {
+   padding: 13px 37px;
+}
+.table-insurance .tbody-insurance tr {
+   width: 100%;
+   height: 59px;
+   padding: 20px 28px;
+   border-bottom: 1px solid #e6f2fe;
+   cursor: pointer;
+}
+.table.b-table > tbody > .table-active > td {
+   background-color: #f1f8ff;
+}
+.table-insurance .tbody-insurance td {
+   font-family: 'Anuphan-Regular';
+   font-size: 14px;
+   color: #4f5358;
+   line-height: 18px;
+   text-align: left !important;
+   vertical-align: middle;
+   border: none;
+}
+.v-text-field.v-text-field--solo:not(.v-text-field--solo-flat) > .v-input__control > .v-input__slot {
+    box-shadow: none;
+}
+.v-input__slot {
+   margin-bottom: 0;
+}
+.nav-tabs {
+   width: 100%;
+   margin: 0 auto;
+   padding-top: 9px;
+   border-bottom: 1px solid #e6f2fe;
+ }
+ .nav-item {
+   width: 50%;
+ }
+ .nav-link {
+   max-width: 187px;
+   padding: 10px 0;
+   text-align: center;
+   font-family: 'Anuphan-Medium';
+   font-size: 16px;
+   color: #617d8c;
+   line-height: 20px;
+ }
+ .nav-tabs .nav-link.active {
+   color: #004899;
+   border: none;
+   border-bottom: 2px solid #004899;
+ }

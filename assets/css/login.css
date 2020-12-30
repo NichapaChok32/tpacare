@@ -1,0 +1,119 @@
+.v-progress-circular {
+  margin: 80% 47%;
+  color: #3ba9fc;
+}
+.txtForm.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)  > .v-input__control {
+  height: 45px;
+}
+.txtForm.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)  > .v-input__control > .v-input__slot {
+  padding: 12px 16px;
+  margin-bottom: 0;
+  min-height: auto;
+  max-height: 45px;
+  background-color: #fff;
+}
+.txtForm.v-text-field--outlined fieldset {
+  position: relative;
+  display: none;
+}
+.txtForm.v-text-field--outlined .v-label {
+  top: 0;
+  margin-bottom: 0;
+  font-family: "Anuphan-Regular";
+  font-size: 14px;
+  line-height: 18px;
+  color: #617D8C;
+}
+.txtForm.v-text-field.v-text-field--enclosed .v-text-field__details {
+  display: none;
+}
+.txtForm.v-text-field input {
+  padding: 0;
+}
+.txtForm.v-text-field--enclosed .v-input__append-inner {
+  margin-top: 0;
+}
+.txtForm.v-text-field--enclosed .v-input__append-inner > .v-input__icon > .v-icon {
+  color: #D4C8C8;
+}
+.btnLogin > span.v-btn__content {
+  font-family: 'Anuphan-Regular';
+  font-size: 18px;
+  color: #fff;
+  line-height: 23px;
+  letter-spacing: 0.36px;
+}
+#PopUp {
+  padding: 30px 0 10px;
+}
+#PopUp > .popup-header {
+    margin: 0 auto 11px;
+    padding: 0 35px;
+    text-align: center;
+    border: none;
+}
+#PopUp > .popup-header > .icon-header {
+      width: 50px;
+      height: 50px;
+      margin: 0 auto;
+}
+#PopUp > .popup-body {
+    margin: 0 auto 20px;
+    padding: 0 35px;
+    text-align: center;
+    font-family: 'Anuphan-Regular';
+    font-size: 16px;
+    color: #000;
+    line-height: 24px;
+}
+#PopUp > .v-card__actions {
+  padding: 0 35px;
+  height: fit-content;
+}
+#PopUp > .v-card__actions > .modal-default-button {
+    text-align: center;
+    background: none;
+    border: none;
+    margin: 0 auto;
+    padding: 0;
+    letter-spacing: 0;
+    box-shadow: none;
+}
+#PopUp > .v-card__actions > .modal-default-button .lbBtnPopUp {
+  font-family: 'Anuphan-Regular';
+  font-size: 18px;
+  color: #3ba9fe;
+  line-height: 23px;
+}
+
+.v-dialog {
+  width: 100%;
+  max-height: 100%;
+}
+@media screen and (min-height: 1366px) and (max-height: 1366px) {
+  .btnLogin > span.v-btn__content {
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .txtForm.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded) > .v-input__control {
+    height: 65px;
+  }
+  .txtForm.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded) > .v-input__control > .v-input__slot {
+    min-height: 65px;
+    max-height: 65px;
+  }
+  .txtForm.v-text-field--outlined .v-label {
+    height: 40px;
+    top: 3px;
+    font-size: 24px;
+    line-height: 30px;
+  }
+  .txtForm.v-text-field--enclosed .v-input__append-inner > .v-input__icon > .v-icon {
+    font-size: 44px;
+    line-height: 50px;
+  }
+  .txtForm.v-text-field--enclosed .v-input__append-inner {
+    margin-top: 7px;
+    margin-right: 16px
+  }
+}

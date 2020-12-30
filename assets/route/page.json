@@ -1,0 +1,174 @@
+{
+    "login": {
+        "th": "/login",
+        "en": "/login"
+    },
+    "home": {
+        "th": "/",
+        "en": "/"
+    },
+    "my-coverages": {
+        "th": "/coverages",
+        "en": "/coverages"
+    },
+    "my-coverages-id": {
+        "th": "/coverages/:id",
+        "en": "/coverages/:id"
+    },
+    "searchIdcard": {
+        "th": "/search-idcard",
+        "en": "/search-idcard"
+    },
+    "setting": {
+        "th": "/setting",
+        "en": "/setting"
+    },
+    "term-condition": {
+        "th": "/condition",
+        "en": "/condition"
+    },
+    "privacy-policy": {
+        "th": "/privacy",
+        "en": "/privacy"
+    },
+    "term-condition-setting": {
+        "th": "/condition-setting",
+        "en": "/condition-setting"
+    },
+    "privacy-policy-setting": {
+        "th": "/privacy-setting",
+        "en": "/privacy-setting"
+    },
+    "register": {
+        "th": "/register",
+        "en": "/register"
+    },
+    "otp": {
+        "th": "/otp",
+        "en": "/otp"
+    },
+    "forgetUser": {
+        "th": "/forget-username",
+        "en": "/forget-username"
+    },
+    "forgetPass": {
+        "th": "/forget-password",
+        "en": "/forget-password"
+    },
+    "eclaim": {
+        "th": "/coverages/eclaim",
+        "en": "/coverages/eclaim"
+    },
+    "hospitalList": {
+        "th": "/hospital-list",
+        "en": "/hospital-list"
+    },
+    "addCard": {
+        "th": "/add-card",
+        "en": "/add-card"
+    },
+    "addCoverage": {
+        "th": "/add-coverage",
+        "en": "/add-coverage"
+    },
+    "insuranceList": {
+        "th": "/insurance-list",
+        "en": "/insurance-list"
+    },
+    "editCard": {
+        "th": "/edit-card",
+        "en": "/edit-card"
+    },
+    "editCoverage": {
+        "th": "/edit-coverage",
+        "en": "/edit-coverage"
+    },
+    "family-coverages": {
+        "th": "/family-coverages",
+        "en": "/family-coverages"
+    },
+    "searchIdcardFamily": {
+        "th": "/search-idcard-family",
+        "en": "/search-idcard-family"
+    },
+    "addCardFamily": {
+        "th": "/add-card-family",
+        "en": "/add-card-family"
+    },
+    "editCardFamily": {
+        "th": "/edit-card-family",
+        "en": "/edit-card-family"
+    },
+    "claimStatus": {
+        "th": "/claim-status",
+        "en": "/claim-status"
+    },
+    "searchHospital": {
+        "th": "/search-hospital",
+        "en": "/search-hospital"
+    },
+    "hospitalDetail": {
+        "th": "/search-hospital/detail/${id}",
+        "en": "/search-hospital/detail/${id}"
+    },
+    "eclaimReport": {
+        "th": "/e-claim",
+        "en": "/e-claim"
+    },
+    "sympton": {
+        "th": "/symptom",
+        "en": "/symptom"
+    },
+    "providerList": {
+        "th": "/provider-list",
+        "en": "/provider-list"
+    },
+    "promotionList": {
+        "th": "/promotion",
+        "en": "/promotion"
+    },
+    "otherList": {
+        "th": "/others/${type}",
+        "en": "/others/${type}"
+    },
+    "promotionDetail": {
+        "th": "/promotion/${id}",
+        "en": "/promotion/${id}"
+    },
+    "articleList": {
+        "th": "/article",
+        "en": "/article"
+    },
+    "articleDetail": {
+        "th": "/article/${id}",
+        "en": "/article/${id}"
+    },
+    "notification": {
+        "th": "/notification",
+        "en": "/notification"
+    },
+    "viewCardDetail": {
+        "th": "/view-card-detail",
+        "en": "/view-card-detail"
+    },
+    "otp-card": {
+        "th": "/otp-card",
+        "en": "/otp-card"
+    },
+    "family-coverages-id": {
+        "th": "/family-coverages/:id",
+        "en": "/family-coverages/:id"
+    },
+    "edit-profile": {
+        "th": "/edit-profile",
+        "en": "/edit-profile"
+    },
+    "change-password": {
+        "th": "/change-password",
+        "en": "/change-password"
+    },
+    "attachOtherFile": {
+        "th": "/attach-file-other",
+        "en": "/attach-file-other"
+    }
+}

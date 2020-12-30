@@ -1,0 +1,124 @@
+.v-progress-circular {
+    margin: 80% 47%;
+    color: #3ba9fc;
+  }
+  .txtForgetUser.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)  > .v-input__control {
+    height: 45px;
+  }
+  .txtForgetUser.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)  > .v-input__control > .v-input__slot {
+    padding: 9px 8px 8px 16px;
+    margin-bottom: 0;
+    min-height: 45px;
+    max-height: 45px;
+    background-color: #fff;
+  }
+  .txtForgetUser.v-text-field--outlined fieldset {
+    position: relative;
+    display: none;
+  }
+  .txtForgetUser.v-text-field--outlined .v-label {
+    top: 0;
+    margin-bottom: 0;
+    font-family: "Anuphan-Regular";
+    font-size: 14px;
+    line-height: 18px;
+    color: #617D8C;
+  }
+  .txtForgetUser.v-text-field.v-text-field--enclosed .v-text-field__details {
+    display: none;
+  }
+  .txtForgetUser.v-text-field input {
+    padding: 0;
+  }
+  .txtForgetUser.v-text-field--enclosed .v-input__append-inner {
+    width: 27px;
+    height: 27px;
+    margin-top: 0;
+  }
+  .txtForgetUser.v-text-field--enclosed .v-input__append-inner > .v-input__icon {
+    width: 27px;
+    height: 27px;
+    background-image: url('../images/user-correct.png');
+    background-size: 27px;
+  }
+  .v-application--is-ltr .v-text-field--outlined fieldset {
+    padding: 0;
+  }
+  .btnSummit > span.v-btn__content {
+    font-family: 'Anuphan-Regular';
+    font-size: 18px;
+    color: #fff;
+    line-height: 23px;
+    letter-spacing: 0.36px;
+  }
+  .v-tooltip__content {
+    width: fit-content;
+    max-width: 305px;
+    padding: 8px 16px 7px 17px;
+    text-align: left;
+    background-color: #3ba9fe !important;
+    border-radius: 6px;
+    left: 25px !important;
+    font-family: 'Sarabun-Regular';
+    font-size: 14px;
+    color: #fff;
+    line-height: 24px;
+  }
+  .tpUser {
+    top: 100px !important;
+  }
+  .tpPass {
+    top: 200px !important;
+  }
+  .v-progress-circular {
+    margin: 80% 47%;
+    color: #3ba9fc;
+  }
+  #PopUp {
+    padding: 30px 0 10px;
+  }
+  #PopUp > .popup-header {
+      margin: 0 auto 11px;
+      padding: 0 35px;
+      text-align: center;
+      border: none;
+  }
+  #PopUp > .popup-header > .icon-header {
+        width: 50px;
+        height: 50px;
+        margin: 0 auto;
+  }
+  #PopUp > .popup-body {
+      margin: 0 auto 20px;
+      padding: 0 35px;
+      text-align: center;
+      font-family: 'Anuphan-Regular';
+      font-size: 16px;
+      color: #000;
+      line-height: 24px;
+  }
+  #PopUp > .v-card__actions {
+    padding: 0 35px;
+    height: fit-content;
+  }
+  #PopUp > .v-card__actions >.modal-default-button {
+      text-align: center;
+      background: none;
+      border: none;
+      margin: 0 auto;
+      padding: 0;
+      letter-spacing: 0;
+  }
+  #PopUp > .v-card__actions >.modal-default-button .lbBtnPopUp {
+    font-family: 'Anuphan-Regular';
+    font-size: 18px;
+    color: #3ba9fe;
+    line-height: 23px;
+  }
+  .v-dialog {
+    width: 100%;
+    max-height: 100%;
+  }
+  .tpPass {
+    top: 100px !important;
+  }

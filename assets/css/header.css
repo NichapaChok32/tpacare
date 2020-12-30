@@ -1,0 +1,10 @@
+.theme--light.v-btn:not(.v-btn--flat):not(.v-btn--text):not(.v-btn--outlined) {
+    background: none;
+    box-shadow: none;
+  }
+  .col {
+    padding: 0;
+    width: fit-content;
+    height: fit-content;
+    vertical-align: top;
+  }

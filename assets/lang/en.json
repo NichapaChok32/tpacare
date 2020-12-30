@@ -1,0 +1,731 @@
+{
+    "login": {
+        "title": "Trusted Healthcare Solution Platform of Leading Insurance Companies",
+        "txtUser": "Username",
+        "txtPass": "Password",
+        "btnLogin": "Sign In",
+        "lostUser": "Forget username",
+        "lostPass": "Forget password",
+        "registerTitle": "Don't have an account yet?",
+        "registerLink": "Sign up now",
+        "langTh": "ไทย",
+        "langEng": "English",
+        "agree": "OK",
+        "error": "Please provide your username and password",
+        "validateUser": "Please provide your username",
+        "validatePass": "Please provide your password",
+        "oldUser": "As privacy policy has been updated, your password length should be 8-15 letters. Please change your password.",
+        "notFound": "Not found user. Please recheck username and password.",
+        "checkCondition": "As privacy policy has been updated, your password length should be 8-15 letters. Please change your password"  
+    },
+    "home": {
+        "welcome": "Welcome",
+        "mr": "",
+        "coverage": "My Coverage",
+        "family": "My Family's Coverage",
+        "status": "Claim Status",
+        "hospital": "Hospital Search",
+        "line": "Line Official",
+        "eclaim": "e-Claim"
+    },
+    "my-coverages": {
+        "title": "My Coverage",
+        "btnUseCard": "Check my eligibility",
+        "btnEClaim": "e-Claim",
+        "tabDetail": "Coverage detail",
+        "tabHistoryClaim": "Claim history",
+        "addCard": "Press + to add coverage information for other cards",
+        "btnDetail": "Details",
+        "notSameDesc": "Your mobile number is not matched. Please update your mobile number to show the coverage details.",
+        "coverageDesc": "Coverage details subject to policy conditions.",
+        "detailHeader": {
+            "order": "No.",
+            "benefit": "Coverage",
+            "coverage": "Max limit",
+            "used": "Used",
+            "noDataDetail": "No coverage details data found"
+        },
+        "historyHeader": {
+            "admitedDate": "Admission date: ",
+            "amount": "Coverage amount: ",
+            "bath": " Bath",
+            "processStatus": "On process",
+            "approvedStatus": "Approved",
+            "rejectStatus": "Rejected",
+            "noDataHistory": "No history data found"
+        },
+        "card": "Card image",
+        "frontCard": "Front card image",
+        "backCard": "Back card image",
+        "eclaimTitle": "E-Claim"
+    },
+    "viewCardDetail": {
+        "title": "Details",
+        "phoneHD": "Please choose the mobile number to receive OTP",
+        "orHD": "or",
+        "lineHD": "Please contact Line ID: @tpacare to change your mobile number",
+        "btnLine": "Contact Line Official",
+        "agree": "OK",
+        "correct": "The mobile number will be displayed if your registered number is matched with our database",
+        "error": "Your mobile number is not matched, please recheck your mobile number"
+    },
+    "my-coverages-id": {
+        "title": "My Coverage",
+        "btnUseCard": "Check my eligibility",
+        "btnEClaim": "e-Claim",
+        "tabDetail": "Coverage detail",
+        "tabHistoryClaim": "Claim history",
+        "addCard": "Press + to add coverage information for other cards",
+        "btnDetail": "Details",
+        "notSameDesc": "Your mobile number is not matched. Please update your mobile number to show the coverage details.",
+        "coverageDesc": "Coverage details subject to policy conditions.",
+        "detailHeader": {
+            "order": "No.",
+            "benefit": "Coverage",
+            "coverage": "Max limit",
+            "used": "Used",
+            "noDataDetail": "No coverage details data found"
+        },
+        "historyHeader": {
+            "admitedDate": "Admission date: ",
+            "amount": "Coverage amount: ",
+            "bath": " Bath",
+            "processStatus": "On process",
+            "approvedStatus": "Approved",
+            "rejectStatus": "Rejected",
+            "noDataHistory": "No history data found"
+        },
+        "card": "Card image",
+        "frontCard": "Front card image",
+        "backCard": "Back card image",
+        "eclaimTitle": "E-Claim"
+    },
+    "searchIdcard": {
+        "title": "My coverage search",
+        "header": "Please provide your ID number",
+        "btnSearch": "Search",
+        "validateIdCard": "Please fill in 13-digit ID number",
+        "correct": "The coverage plan will be displayed if your registered number is matched with our database",
+        "notCorrect": "Your mobile number is not matched, please update the mobile number to be up to date",
+        "notFound": "No data found",
+        "agree": "OK",
+        "cancel": "No"
+    },
+    "card": {
+        "polNo": "Policy No. / Card No.",
+        "name": "Insured name",
+        "period": "Protection period",
+        "empID": "Employee ID",
+        "insureName": "Insured company name",
+        "fromDate": "Start date",
+        "toDate": "Exp date"
+    },
+    "setting": {
+        "title": "Setting",
+        "editProfile": "Edit Profile",
+        "changePass": "Change Password",
+        "condition": "Terms and Conditions",
+        "policy": "Privacy Policy",
+        "lang": "Language",
+        "langTh": "ไทย",
+        "langEng": "English",
+        "version": "Version",
+        "btnLogout": "Logout",
+        "question": "Do you want to log out?"
+    },
+    "conditionPopup": {
+        "agree": "Yes",
+        "cancel": "No"
+    },
+    "term-condition": {
+        "title": "Terms & Conditions",
+        "header": "TPA Care's Terms & Conditions",
+        "agreement": "I've read and accepted terms and conditions",
+        "btnAgree": "Accept"
+    },
+    "privacy-policy": {
+        "title": "Privacy Policy",
+        "header": "Privacy Policy",
+        "agreement": "I've read and accepted the Privacy Policy",
+        "btnAgree": "Accept"
+    },
+    "term-condition-setting": {
+        "title": "Terms & Conditions",
+        "header": "TPA Care's Terms & Conditions"
+    },
+    "privacy-policy-setting": {
+        "title": "Privacy Policy",
+        "header": "Privacy Policy"
+    },
+    "register": {
+        "title": "Register",
+        "user": "Username*",
+        "pass": "Password*",
+        "comfirm": "Confirm Password*",
+        "name": "Name*",
+        "lastname": "Surname*",
+        "phone": "Mobile Number*",
+        "btnRegister": "Register",
+        "tooltipUser": "Username length must be 5-15 letters. It has to be A-Z or a-z and 0-9. No special characters allowed.",
+        "tooltipPass": "Password length must be 8-15 letters. It can be A-Z, a-z and 0-9. Special characters are optional. Please avoid using similar password with other websites and easy-to-be-guessed password.",
+        "sameUser": "This username has been taken. Please change your username",
+        "correctRegister": "You are registered. OTP will be sent to your registered mobile number for self-verification",
+        "rejectPhoneNo": "The mobile number has already been taken, please use new mobile number",
+        "validateUser": "Please provide your username",
+        "validatePass": "Please provide your password",
+        "validateCon": "Please confirm password",
+        "validateConfirm": "Password mismatch, please try again.",
+        "validateName": "Please provide your name",
+        "validateSurname": "Please provide your lastname",
+        "validateCorrectName": "Please fill your name only by Thai and English",
+        "validateCorrectSurname": "Please fill your surname only by Thai and English",
+        "validatePhone": "Please provide your phone number",
+        "validateCorrectUser": "Username length must be 5-15 letters. It has to be A-Z or a-z and 0-9. No special characters allowed.",
+        "validateCorrectPass": "Password length must be 8-15 letters. It can be A-Z, a-z and 0-9. Special characters are optional. Please avoid using similar password with other websites and easy-to-be-guessed password.",
+        "agree": "OK",
+        "cancel": "No"
+    },
+    "otp": {
+        "title": "Verify OTP",
+        "header": "Fill OTP",
+        "otpPhone": "OTP was send to ",
+        "refer": "Referring code ",
+        "resendOtp": "Request new OTP",
+        "countdown": "Please fill the OTP within ",
+        "btnVerify": "Verify",
+        "success": "Your information has been recorded",
+        "agree": "OK"
+    },
+    "otp-card": {
+        "title": "Verify OTP",
+        "header": "Fill OTP",
+        "otpPhone": "OTP was send to ",
+        "refer": "Referring code ",
+        "resendOtp": "Request new OTP",
+        "countdown": "Please fill the OTP within ",
+        "btnVerify": "Verify",
+        "successTel": "Your information has been recorded",
+        "agree": "OK"
+    },
+    "forgetUser": {
+        "title": "Forget Username",
+        "header": "Please provide your mobile number",
+        "validatePhone": "Please provide your mobile number",
+        "validateCorrect": "Please provide valid phone number",
+        "desc": "If you have changed your mobile number, please contact Line ID: @tpacare",
+        "btnAgree": "OK",
+        "isUsername": "Your username is",
+        "btnLogin": "Login",
+        "correct": "Username is found. OTP will be sent to your registered mobile number for self-verification",
+        "error": "Username is not found. Please recheck your username",
+        "agree": "OK",
+        "cancel": "No"
+    },
+    "forgetPass": {
+        "title": "Forget Password",
+        "header": "Please provide your username",
+        "validatePass": "Please provide your username",
+        "btnAgree": "OK",
+        "correct": "Username is found. OTP will be sent to your registered mobile number for self-verification",
+        "error": "Username is not found. Please recheck your username",
+        "tooltipPass": "Password length must be 8-15 letters. It can be A-Z, a-z and 0-9. Special characters are optional. Please avoid using similar password with other websites and easy-to-be-guessed password.",
+        "newUser": "New password*",
+        "comfirmUser": "Confirm new password*",
+        "validateNewPass": "Please provide new password",
+        "validateConfirm": "Please confirm new password",
+        "validateCon": "Password mismatch, please try again.",
+        "validateCorrectPass": "Password length must be 8-15 letters. It can be A-Z, a-z and 0-9. Special characters are optional. Please avoid using similar password with other websites and easy-to-be-guessed password.",
+        "successPass": "Your information has been recorded",
+        "agree": "OK",
+        "cancel": "No"
+    },
+    "eclaim": {
+        "title": "e-Claim",
+        "btnEClaim": "e-Claim",
+        "tabDetail": "Coverage detail",
+        "tabHistoryClaim": "Claim History",
+        "coverageDesc": "Coverage details subject to policy conditions.",
+        "detailHeader": {
+            "order": "No.",
+            "benefit": "Coverage",
+            "coverage": "Max limit",
+            "used": "Used",
+            "noDataDetail": "No coverage details data found"
+        },
+        "historyHeader": {
+            "admitedDate": "Admission Date: ",
+            "amount": "Coverage Amount: ",
+            "bath": " Bath",
+            "processStatus": "On Process",
+            "approvedStatus": "Approved",
+            "rejectStatus": "Rejected",
+            "noDataHistory": "No history data found"
+        },
+        "notFoundData": "You have no eligible insurance for e-Claim"
+    },
+    "hospitalList": {
+        "title": "Please select hospital",
+        "hospitalHeader": {
+            "hospitalName": "Hospital",
+            "distance": "Distance"
+        },
+        "Desc": "Please select hospital when you are at registration counter. If the process is longer than 5 min, please select the hospital again.",
+        "btnUseCard": "Confirm",
+        "confirmTitle": "Please confirm your process",
+        "confirmContent": "You are checking in at ",
+        "completeUseCard": "You have done the eligibility check",
+        "confirmCancelCard": "Do you want to cancel?",
+        "completeCancelCard": "You have done cancel used card",
+        "agree": "OK",
+        "cancel": "No",
+        "validateLocation": "Sorry, Can’t connect to the GPS service. Please enable GPS service and try again later.",
+        "close": "Close"
+    },
+    "useCardPopup": {
+        "btnConfirm": "Confirm",
+        "btnCancel": "Cancel",
+        "btnClose": "Done",
+        "useCardTitle": "Please show this display at <br> registration counter",
+        "countdownContent": "Please proceed with in "
+    },
+    "addCard": {
+        "title": "Add my coverage",
+        "insuranceNameTitle": "Insurance name companies/Banks name",
+        "validateInsurance": "Please fill insurance name companies/banks name",
+        "polNoTitle": "Policy number / insurance card number",
+        "validatePolNo": "Please fill policy number / insurance card number",
+        "insurerNameTitle": "Insured name",
+        "validateInsurer": "Please fill insured name",
+        "fromTitle": "Start date",
+        "validateFrom": "Please fill start date",
+        "toTitle": "Expiration date",
+        "validateTo": "Please fill expiration date",
+        "coverageDescHeader": "Coverage details",
+        "coverages": {
+            "benefitHeader": "Coverage",
+            "coverageHeader": "Max limit",
+            "mediclaFeeHeader": "Medical fee",
+            "roomPriceHeader": "Inpatient room fee",
+            "surgeryFeeHeader": "Sugery expense",
+            "medicineFeeHeader": "Medication expense"
+        },
+        "btnAddCoveragesDesc": "Add/Edit my coverage",
+        "cardPicture": "Card Image",
+        "frontCardPic": "Front card image",
+        "validateFront": "Please add front card image",
+        "backCardPic": "Back card image",
+        "validateBack": "Please add back card image",
+        "btnAddCoverage": "Save",
+        "correctAddCoverage": "Success to save your insurance card.",
+        "errorAddCoverage": "Systems can't to save your insurance card. Please check your data again.",
+        "agree": "OK",
+        "cancel": "No"
+    },
+    "addCoverage": {
+        "title": "Add coverage details",
+        "benefit": "Coverage",
+        "coverage": "Max limit",
+        "mediclaFee": "Medical fee",
+        "roomPrice": "Inpatient room fee",
+        "surgeryFee": "Sugery expense",
+        "medicineFee": "Medication expense",
+        "btnAddBenefit": "Add benefit",
+        "btnAddCoverageDesc": "Save"
+    },
+    "insuranceList": {
+        "title": "Choose Insurance Companies / Banks",
+        "insuranceNameTitle": "Insurance companies",
+        "bankNameTitle": "Banks",
+        "searchPlaceholder": "Search",
+        "notInsuranceList": "Not found insurance companies data",
+        "notBankList": "Not found banks data"
+    },
+    "editCard": {
+        "title": "Edit my coverage",
+        "insuranceNameTitle": "Insurance name companies/Banks name",
+        "validateInsurance": "Please fill insurance name companies/banks name",
+        "polNoTitle": "Policy number / insurance card number",
+        "validatePolNo": "Please fill policy number / insurance card number",
+        "insurerNameTitle": "Insured name",
+        "validateInsurer": "Please fill insured name",
+        "fromTitle": "Start date",
+        "validateFrom": "Please fill start date",
+        "toTitle": "Expiration date",
+        "validateTo": "Please fill expiration date",
+        "coverageDescHeader": "Coverage details",
+        "coveragesEN": {
+            "benefitHeader": "Coverage",
+            "coverageHeader": "Max limit",
+            "mediclaFeeHeader": "Medical fee",
+            "roomPriceHeader": "Inpatient room fee",
+            "surgeryFeeHeader": "Sugery expense",
+            "medicineFeeHeader": "Medication expense"
+        },
+        "btnAddCoveragesDesc": "Add/Edit my coverage",
+        "cardPicture": "Card Image",
+        "frontCardPic": "Front card image",
+        "validateFront": "Please add front card image",
+        "backCardPic": "Back card image",
+        "validateBack": "Please add back card image",
+        "btnAddCoverage": "Save",
+        "correctAddCoverage": "Success to save your insurance card.",
+        "errorAddCoverage": "Systems can't to save your insurance card. Please check your data again.",
+        "delete": "Confirm",
+        "cancel": "Cancel",
+        "deleteCard": "Do you want to delete this coverage?",
+        "deleteSuccess": "Success to delete your coverage.",
+        "deleteError": "Systems can't to delete your coverage.",
+        "OK": "OK"
+    },
+    "editCoverage": {
+        "title": "Edit coverage details",
+        "editBenefit": "Coverage",
+        "editCoverage": "Max limit",
+        "btnAddBenefit": "Add benefit",
+        "btnAddCoverageDesc": "Save"
+    },
+    "family-coverages": {
+        "title": "My Family's Coverage",
+        "btnUseCard": "Check my eligibility",
+        "btnEClaim": "e-Claim",
+        "tabDetail": "Coverage detail",
+        "tabHistoryClaim": "Claim history",
+        "addCard": "Press + to add coverage information for other cards",
+        "btnDetail": "Details",
+        "notSameDesc": "Your mobile number is not matched. Please update your mobile number to show the coverage details.",
+        "coverageDesc": "Coverage details subject to policy conditions.",
+        "detailHeader": {
+            "order": "No.",
+            "benefit": "Coverage",
+            "coverage": "Max limit",
+            "used": "Used",
+            "noDataDetail": "No coverage details data found"
+        },
+        "historyHeader": {
+            "admitedDate": "Admission date: ",
+            "amount": "Coverage amount: ",
+            "bath": " Bath",
+            "processStatus": "On process",
+            "approvedStatus": "Approved",
+            "rejectStatus": "Rejected",
+            "noDataHistory": "No history data found"
+        },
+        "card": "Card image",
+        "frontCard": "Front card image",
+        "backCard": "Back card image",
+        "eclaimTitle": "E-Claim"
+    },
+    "family-coverages-id": {
+        "title": "My Family's Coverage",
+        "btnUseCard": "Check my eligibility",
+        "btnEClaim": "e-Claim",
+        "tabDetail": "Coverage detail",
+        "tabHistoryClaim": "Claim history",
+        "addCard": "Press + to add coverage information for other cards",
+        "btnDetail": "Details",
+        "notSameDesc": "Your mobile number is not matched. Please update your mobile number to show the coverage details.",
+        "coverageDesc": "Coverage details subject to policy conditions.",
+        "detailHeader": {
+            "order": "Number",
+            "benefit": "Coverage",
+            "coverage": "Max limit",
+            "used": "Used",
+            "noDataDetail": "No coverage details data found"
+        },
+        "historyHeader": {
+            "admitedDate": "Admission date: ",
+            "amount": "Coverage amount: ",
+            "bath": " Bath",
+            "processStatus": "On process",
+            "approvedStatus": "Approved",
+            "rejectStatus": "Rejected",
+            "noDataHistory": "No history data found"
+        },
+        "card": "Card image",
+        "frontCard": "Front card image",
+        "backCard": "Back card image",
+        "eclaimTitle": "E-Claim"
+    },
+    "searchIdcardFamily": {
+        "title": "My Family's coverage search",
+        "header": "Please provide your ID number",
+        "btnSearch": "Search",
+        "validateIdCard": "Please fill in 13-digit ID number",
+        "correct": "The coverage plan will be displayed if your registered number is matched with our database",
+        "notCorrect": "Your mobile number is not matched, please update the mobile number to be up to date",
+        "notFound": "No data found",
+        "agree": "OK"
+    },
+    "addCardFamily": {
+        "title": "Add my family's coverage",
+        "insuranceNameTitle": "Insurance name companies/Banks name",
+        "validateInsurance": "Please fill insurance name companies/banks name",
+        "polNoTitle": "Policy number / insurance card number",
+        "validatePolNo": "Please fill policy number / insurance card number",
+        "insurerNameTitle": "Insured name",
+        "validateInsurer": "Please fill insured name",
+        "fromTitle": "Start date",
+        "validateFrom": "Please fill start date",
+        "toTitle": "Expiration date",
+        "validateTo": "Please fill expiration date",
+        "coverageDescHeader": "Coverage details",
+        "coverages": {
+            "benefitHeader": "Coverage",
+            "coverageHeader": "Max limit",
+            "mediclaFeeHeader": "Medical fee",
+            "roomPriceHeader": "Inpatient room fee",
+            "surgeryFeeHeader": "Sugery expense",
+            "medicineFeeHeader": "Medication expense"
+        },
+        "btnAddCoveragesDesc": "Add/Edit my family's coverage",
+        "cardPicture": "Card Image",
+        "frontCardPic": "Front card image",
+        "backCardPic": "Back card image",
+        "btnAddCoverage": "Save",
+        "correctAddCoverage": "Success to save your insurance card.",
+        "errorAddCoverage": "Systems can't to save your insurance card. Please check your data again.",
+        "agree": "OK",
+        "cancel": "No"
+    },
+    "editCardFamily": {
+        "title": "Edit my family's coverage",
+        "insuranceNameTitle": "Insurance name companies/Banks name",
+        "validateInsurance": "Please fill insurance name companies/banks name",
+        "polNoTitle": "Policy number / insurance card number",
+        "validatePolNo": "Please fill policy number / insurance card number",
+        "insurerNameTitle": "Insured name",
+        "validateInsurer": "Please fill insured name",
+        "fromTitle": "Start date",
+        "validateFrom": "Please fill start date",
+        "toTitle": "Expiration date",
+        "validateTo": "Please fill expiration date",
+        "coverageDescHeader": "Coverage details",
+        "coveragesEN": {
+            "benefitHeader": "Coverage",
+            "coverageHeader": "Max limit",
+            "mediclaFeeHeader": "Medical fee",
+            "roomPriceHeader": "Inpatient room fee",
+            "surgeryFeeHeader": "Sugery expense",
+            "medicineFeeHeader": "Medication expense"
+        },
+        "btnAddCoveragesDesc": "Add/Edit my family's coverage",
+        "cardPicture": "Card Image",
+        "frontCardPic": "Front card image",
+        "backCardPic": "Back card image",
+        "btnAddCoverage": "Save",
+        "correctAddCoverage": "Success to save your insurance card.",
+        "errorAddCoverage": "Systems can't to save your insurance card. Please check your data again.",
+        "delete": "Confirm",
+        "cancel": "Cancel",
+        "deleteCard": "Do you want to delete this coverage?",
+        "deleteSuccess": "Success to delete your coverage.",
+        "deleteError": "Systems can't to delete your coverage.",
+        "OK": "OK"
+    },
+    "claimStatus": {
+        "title": "Claim Status",
+        "startDate": "Admission date",
+        "cardType": "Card type",
+        "companiesName": "Company Name",
+        "lastUpdate": "Latest updated time",
+        "polNo": "Policy no./Card no.",
+        "btnAttach": "Attach additional document"
+    },
+    "searchHospital": {
+        "title": "Hospital Search",
+        "searchPlaceholder": "Search",
+        "categoriesGroups": {
+            "all": "Show all",
+            "other": "More"
+        },
+        "showList": "All providers",
+        "nearPlaces": "Nearby providers",
+        "currentPlaces": "Current location",
+        "allCoverage": "All insurers valid",
+        "someCoverage": "Some insurers valid",
+        "distanceFromYou": "Far from you ",
+        "meter": " Km.",
+        "validateLocation": "Sorry, Can’t connect to the GPS service. Please enable GPS service and try again later.",
+        "agree": "Close"
+    },
+    "selectHospital": {
+        "title": "Hospital Search",
+        "searchPlaceholder": "Search",
+        "resultKeyword": "Search result",
+        "notFound": "Not found providers data."
+    },
+    "hospitalDetail": {
+        "title": "Hospital Search",
+        "distanceFromYou": "Far from you ",
+        "meter": " Km."
+    },
+    "eclaimReport": {
+        "title": "e-Claim",
+        "stepper1": "Fill in information",
+        "stepper2": "Attach document",
+        "stepper3": "Preview",
+        "stepper4": "Submit",
+        "btnSending": "Next",
+        "detailHeader": {
+            "empID": "Employee ID",
+            "polNo": "Policy number",
+            "InsurerName": "Patient name",
+            "mobile": "Mobile number"
+        },
+        "claimForm": {
+            "email": "E-mail",
+            "incidentType": "Type of incient",
+            "benefitType": "Type of benefit",
+            "admitDate": "Admission date",
+            "incidentDate": "Accident date",
+            "sympton": "Diagnosis/Symptom/Cause from medical certification",
+            "treatmentPlace": "Place of treatment",
+            "amount": "Bill amount",
+            "incidentValidate": "Please choose type of incient",
+            "benefitValidate": "Please choose type of benefit",
+            "accidentValidate": "Please fill accident date",
+            "admitValidate": "Please fill admission date",
+            "symptonValidate": "Please fill diagnosis/symptom/Cause from medical certification",
+            "treatPlaceValidate": "Please fill place of treatment",
+            "amountValidate": "Please fill bill amount",
+            "numberValidate": "Please fill bill amount only by number.",
+            "emailValidate": "Email is not correct format"
+        },
+        "attachForm": {
+            "receipt": "Attach receipt",
+            "medicalAttach": "Attach medical certification",
+            "desc": "(support JPG, PNG, PDF, Max 10 MB.)",
+            "sameFileValidate": "The file was repeatedly attached. Please check again.",
+            "deleteConfirm": "Do you want to delete this attached file?",
+            "notFileValidate": "Please attach a file of receipt and At least one medical certificate each.",
+            "yes": "Yes",
+            "no": "No",
+            "agree": "OK",
+            "sizeFileValidate": "support JPG, PNG, PDF, Max 10 MB."
+        },
+        "reviewForm": {
+            "previewImage": "Preview of uploaded receipt and medical certification",
+            "btnEditData": "Edit",
+            "btnEditImage": "Reupload document",
+            "btnReportEClaim": "Submit",
+            "eclaimValidate": "Your e-Claim is not correct, Please check your information."
+        },
+        "claimType": {
+            "accident": "accident",
+            "sick": "illness"
+        },
+        "successEClaim": "Your claim is recorded. The result of the claim assessment will be displayed in ‘Claim Status'",
+        "btnAgree": "Acknowledge"
+    },
+    "sympton": {
+        "title": "Symptom Search",
+        "searchPlaceholder": "search",
+        "symptonFindValidate": "Not find Diagnosis/Symptom/Cause"
+    },
+    "providerList": {
+        "title": "Hospital Search",
+        "searchPlaceholder": "search",
+        "providerValidate": "Not find Hospital",
+        "btnConfirm": "Verify"
+    },
+    "promotionList": {
+        "title": "Health Check-up promotion",
+        "searchPlaceholder": "search",
+        "categoriesGroups": {
+            "all": "Show all",
+            "other": "More"
+        },
+        "notFoundDataType": "No result found ",
+        "notFoundDataSearch": "No result found ",
+        "foundDataSearch": "Result found "
+    },
+    "otherList": {
+        "title": "More",
+        "hospitalHeader": "Type of provider",
+        "promotionHeader": "Type of Health Check-up promotion",
+        "articleHeader": "Type of Health tips",
+        "all": "Show all"
+    },
+    "promotionDetail": {
+        "title": "Health Check-up promotion",
+        "promotionAvg": "Promotion period",
+        "promotionFor": "Suitable for",
+        "promotionContact": "Additional info, please contact"
+    },
+    "articleList": {
+        "title": "Health Tips",
+        "searchPlaceholder": "search",
+        "categoriesGroups": {
+            "all": "Show all",
+            "other": "More"
+        },
+        "notFoundDataType": "No result found ",
+        "notFoundDataSearch": "No result found ",
+        "foundDataSearch": "Result found "
+    },
+    "articleDetail": {
+        "title": "Health Tips"
+    },
+    "notification": {
+        "title": "Notification",
+        "tabHeader": {
+            "tabTitle1": "Claim Status",
+            "tabTitle2": "Promotion and Health Tips",
+            "tabTitle3": "General"
+        },
+        "btnOther": "More details"
+    },
+    "edit-profile": {
+        "title": "Edit Profile",
+        "nameLabel": "Name*",
+        "surnameLabel": "Surname*",
+        "phoneLabel": "Mobile number*",
+        "birthLabel": "Date of Birth",
+        "sexLabel": "Gender",
+        "sexChoice": {
+            "male": "Male",
+            "female": "Female",
+            "nonDetect": "Not specity"
+        },
+        "btnSubmit": "Save",
+        "success": "Your information has been recorded",
+        "validateName": "Please fill name.",
+        "validateSurname": "Please fill surname.",
+        "validatePhone": "Please fill phone number.",
+        "successPhone": "Your information has been recorded OTP will be sent to your registered mobile number for self-verification.",
+        "agree": "OK"
+    },
+    "change-password": {
+        "title": "Change password",
+        "currPassLabel": "Current password*",
+        "newPassLabel": "New password*",
+        "confirmPassLabel": "Confirm new password*",
+        "btnSubmit": "Save",
+        "validateCurrPass": "Please provide current password",
+        "correct": "Your information has been recorded",
+        "errorCurrPass": "The current password is incorrect, please recheck your password",
+        "tooltipPass": "Password length must be 8-15 letters. It can be A-Z, a-z and 0-9. Special characters are optional. Please avoid using similar password with other websites and easy-to-be-guessed password.",
+        "validateNewPass": "Please provide new password",
+        "validateConfirm": "Please confirm new password",
+        "validateCon": "Password mismatch, please try again.",
+        "validateCorrectPass": "Password length must be 8-15 letters. It can be A-Z, a-z and 0-9. Special characters are optional. Please avoid using similar password with other websites and easy-to-be-guessed password.",
+        "validateSamePass": "New password can not be the same as your old password",
+        "agree": "OK"
+    },
+    "attachOtherFile": {
+        "title": "Attach additional document",
+        "receipt": "Attach receipt",
+        "medical": "Attach medical certification",
+        "other": "Attach other document",
+        "desc": "(support JPG, PNG, PDF, Max 10 MB.)",
+        "sameFileValidate": "The file was repeatedly attached. Please check again.",
+        "deleteConfirm": "Do you want to delete this attached file?",
+        "notFileValidate": "Please attach a file of receipt and At least one medical certificate each.",
+        "OK": "OK",
+        "no": "No",
+        "agree": "OK",
+        "sizeFileValidate": "support JPG, PNG, PDF, Max 10 MB.",
+        "successEClaim": "Your claim is recorded. The result of the claim assessment will be displayed in ‘Claim Status’",
+        "btnAgree": "Submit"
+    }
+}

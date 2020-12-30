@@ -1,0 +1,349 @@
+.b-avatar {
+    width: 114px !important;
+    height: 114px !important;
+  }
+  .badge-primary {
+    background: url('../../assets/images/add-image.png');
+  }
+  .b-avatar-badge {
+    min-width: 30px !important;
+    min-height: 30px !important;
+  }
+  .badge-secondary {
+    background-color: transparent;
+  }
+  .v-input--radio-group__input {
+    width: auto;
+    display: block;
+  }
+  .mdi-radiobox-blank {
+    font-size: 18px !important;
+    color: #004899 !important;
+  }
+  .v-input--selection-controls .v-input__slot > .v-label,
+  .v-input--selection-controls .v-radio > .v-label {
+    font-size: 16px;
+    color: #004899;
+    line-height: 24px;
+    margin-bottom: 0;
+    margin-left: 11px;
+  }
+  .v-input--selection-controls__ripple {
+    display: none;
+  }
+  .v-icon.v-icon::after {
+    width: 18px;
+    height: 18px;
+  }
+  .v-input--selection-controls__input .v-icon {
+    width: 18px;
+  }
+  .v-input--selection-controls__input input[role='radio'] {
+    width: 18px;
+    height: 18px;
+  }
+  .v-input--selection-controls__input {
+    width: 18px;
+  }
+  .custom-file {
+    display: none;
+  }
+  .btn-secondary {
+    border: none;
+    background-color: transparent;
+  }
+  .btn-secondary:hover {
+    border: none;
+    background-color: transparent;
+  }
+  .mdi-radiobox-marked {
+    font-size: 18px !important;
+    color: #004899 !important;
+  }
+  .txtForm  > .v-input__control {
+    height: 45px;
+  }
+  .txtForm > .v-input__control > .v-input__slot {
+    padding: 14px 24px 13px;
+    margin-bottom: 0;
+    min-height: 45px;
+    max-height: 45px;
+    background-color: #fff;
+  }
+  .txtForm.v-text-field--outlined fieldset {
+    position: relative;
+    display: none;
+  }
+  .txtForm.theme--light.v-text-field > .v-input__control > .v-input__slot:before {
+    border: none;
+  }
+  .txtForm.v-text-field > .v-input__control > .v-input__slot > .v-text-field__slot {
+    font-family: "Anuphan-Regular";
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .txtForm.v-text-field--outlined .v-label {
+    top: 0;
+    margin-bottom: 0;
+    font-family: "Anuphan-Regular";
+    font-size: 14px;
+    line-height: 18px;
+    color: #617D8C;
+  }
+  .txtForm.v-text-field.v-text-field--enclosed .v-text-field__details {
+    display: none;
+  }
+  .txtForm.v-text-field input {
+    padding: 0;
+  }
+  .txtForm .v-text-field__details {
+    display: none;
+  }
+  .v-picker {
+    width: auto;
+  }
+  .v-picker__title {
+    background-color: #3ba9fe;
+  }
+  .v-date-picker-title__year {
+    font-family: 'Anuphan-Regular';
+    font-size: 14px;
+    text-align: left;
+    line-height: 18px;
+    color: #fff;
+    opacity: 1 !important;
+  }
+  .v-date-picker-title__date {
+    font-family: 'Anuphan-Regular';
+    font-size: 22px;
+    text-align: left;
+    line-height: 28px;
+    color: #fff;
+    opacity: 1 !important;
+  }
+  .v-menu__content {
+    min-width: auto !important;
+  }
+  .v-date-picker-header__value button {
+    font-family: 'Anuphan-Regular';
+    font-size: 16px;
+    text-align: left;
+    line-height: 20px;
+    color: #000;
+  }
+  .theme--light.v-date-picker-table th, .theme--light.v-date-picker-table .v-date-picker-table--date__week {
+    font-family: 'Anuphan-Regular';
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .v-date-picker-table .v-btn {
+    font-family: 'Anuphan-Regular';
+    line-height: 20px;
+  }
+  .v-date-picker-table {
+    padding: 8px 12px 12px;
+    height: auto;
+  }
+  .v-date-picker-years li {
+    font-family: 'Anuphan-Regular';
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .theme--light.v-btn:not(.v-btn--flat):not(.v-btn--text):not(.v-btn--outlined) {
+    background-color: #3ba9fe;
+  }
+  .txtDatePicker.v-text-field--enclosed .v-input__append-inner {
+    margin: auto 0;
+  }
+  .txtDatePicker.v-text-field--enclosed .v-input__append-inner > .v-input__icon > .v-icon.v-icon {
+    color: #2F2E41;
+  }
+  .txtDatePicker.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)  > .v-input__control {
+    height: 45px;
+  }
+  .txtDatePicker.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)  > .v-input__control > .v-input__slot {
+    padding: 12px 11px 11px 24px;
+    margin-bottom: 0;
+    min-height: 45px;
+    max-height: 45px;
+    background-color: #fff;
+  }
+  .txtDatePicker.v-text-field--outlined fieldset {
+    position: relative;
+    display: none;
+  }
+  .txtDatePicker.v-text-field--outlined .v-label {
+    top: 0;
+    margin-bottom: 0;
+    font-family: "Anuphan-Regular";
+    font-size: 14px;
+    line-height: 18px;
+    color: #617D8C;
+  }
+  .txtDatePicker.v-text-field.v-text-field--enclosed .v-text-field__details {
+    display: none;
+  }
+  .txtDatePicker.v-text-field input {
+    padding: 0;
+    font-family: "Anuphan-Regular";
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .pickerBirthdate.v-picker {
+    width: auto;
+  }
+  .pickerBirthdate.v-picker__title {
+    background-color: #3ba9fe;
+  }
+  .pickerBirthdate.v-date-picker-title__year {
+    font-family: 'Anuphan-Regular';
+    font-size: 14px;
+    text-align: left;
+    line-height: 18px;
+    color: #fff;
+    opacity: 1 !important;
+  }
+  .pickerBirthdate.v-date-picker-title__date {
+    font-family: 'Anuphan-Regular';
+    font-size: 22px;
+    text-align: left;
+    line-height: 28px;
+    color: #fff;
+    opacity: 1 !important;
+  }
+  .pickerBirthdate.v-menu__content {
+    min-width: auto !important;
+  }
+  .pickerBirthdate.v-date-picker-header__value button {
+    font-family: 'Anuphan-Regular';
+    font-size: 16px;
+    text-align: left;
+    line-height: 20px;
+    color: #000;
+  }
+  .pickerBirthdate.theme--light.v-date-picker-table th, .theme--light.v-date-picker-table .v-date-picker-table--date__week {
+    font-family: 'Anuphan-Regular';
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .pickerBirthdate.v-date-picker-table .v-btn {
+    font-family: 'Anuphan-Regular';
+    line-height: 20px;
+  }
+  .v-menu__content {
+    min-width: auto !important;
+  }
+  .v-date-picker-header__value button {
+    font-family: 'Anuphan-Regular';
+    font-size: 16px;
+    text-align: left;
+    line-height: 20px;
+    color: #000;
+  }
+  .theme--light.v-date-picker-table th, .theme--light.v-date-picker-table .v-date-picker-table--date__week {
+    font-family: 'Anuphan-Regular';
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .v-date-picker-table .v-btn {
+    font-family: 'Anuphan-Regular';
+    line-height: 20px;
+  }
+  .v-date-picker-table {
+    padding: 8px 12px 12px;
+    height: auto;
+  }
+  .v-date-picker-years li {
+    font-family: 'Anuphan-Regular';
+    font-size: 14px;
+    line-height: 18px;
+  }
+  .theme--light.v-btn:not(.v-btn--flat):not(.v-btn--text):not(.v-btn--outlined) {
+    background-color: #3ba9fe;
+  }
+  .v-date-picker-table .v-btn.v-btn--active {
+    background-color: #3ba9fe;
+  }
+  .theme--light.v-input, .theme--light.v-input input, .theme--light.v-input textarea {
+    color: #617d8c;
+  }
+  .v-text-field.v-text-field--enclosed .v-text-field__details, .v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)>.v-input__control>.v-input__slot {
+    padding: 0 11px 0 24px;
+  }
+  .v-text-field--enclosed .v-input__append-inner, .v-text-field--enclosed .v-input__append-outer, .v-text-field--enclosed .v-input__prepend-inner, .v-text-field--enclosed .v-input__prepend-outer, .v-text-field--full-width .v-input__append-inner, .v-text-field--full-width .v-input__append-outer, .v-text-field--full-width .v-input__prepend-inner, .v-text-field--full-width .v-input__prepend-outer {
+    margin-top: 10px;
+  }
+  .v-text-field--filled>.v-input__control>.v-input__slot, .v-text-field--full-width>.v-input__control>.v-input__slot, .v-text-field--outlined>.v-input__control>.v-input__slot {
+    min-height: 45px;
+  }
+  .v-text-field--enclosed .v-input__append-inner, .v-text-field--enclosed .v-input__append-outer, .v-text-field--enclosed .v-input__prepend-inner, .v-text-field--enclosed .v-input__prepend-outer, .v-text-field--full-width .v-input__append-inner, .v-text-field--full-width .v-input__append-outer, .v-text-field--full-width .v-input__prepend-inner, .v-text-field--full-width .v-input__prepend-outer {
+    margin-top: 9px;
+  }
+  .v-text-field.v-text-field--enclosed .v-text-field__details, .v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)>.v-input__control>.v-input__slot {
+    padding: 0 11px 0 24px;
+  }
+  .v-text-field>.v-input__control>.v-input__slot>.v-text-field__slot {
+    max-height: 45px;
+  }
+  .v-text-field--enclosed .v-input__append-inner, .v-text-field--enclosed .v-input__append-outer, .v-text-field--enclosed .v-input__prepend-inner, .v-text-field--enclosed .v-input__prepend-outer, .v-text-field--full-width .v-input__append-inner, .v-text-field--full-width .v-input__append-outer, .v-text-field--full-width .v-input__prepend-inner, .v-text-field--full-width .v-input__prepend-outer {
+    margin-top: 10px;
+  }
+  .v-progress-circular {
+    margin: 80% 47%;
+    color: #3ba9fc;
+  }
+  #PopUp {
+    padding: 30px 0 10px;
+  }
+  #PopUp > .popup-header {
+      margin: 0 auto 11px;
+      padding: 0 35px;
+      text-align: center;
+      border: none;
+  }
+  #PopUp > .popup-header > .icon-header {
+        width: 50px;
+        height: 50px;
+        margin: 0 auto;
+  }
+  #PopUp > .popup-body {
+      margin: 0 auto 20px;
+      padding: 0 35px;
+      text-align: center;
+      font-family: 'Anuphan-Regular';
+      font-size: 16px;
+      color: #000;
+      line-height: 24px;
+  }
+  #PopUp > .v-card__actions {
+    padding: 0 35px;
+    height: fit-content;
+  }
+  #PopUp > .v-card__actions >.modal-default-button {
+    text-align: center;
+    background: none;
+    border: none;
+    margin: 0 auto;
+    padding: 0;
+    letter-spacing: 0;
+}
+#PopUp > .v-card__actions >.modal-default-button .lbBtnPopUp {
+  font-family: 'Anuphan-Regular';
+  font-size: 18px;
+  color: #3ba9fe;
+  line-height: 23px;
+}
+  .v-dialog {
+    width: 100%;
+    max-height: 100%;
+  }
+  .v-icon.v-icon {
+    font-size: 22px;
+    color: #D4C8C8;
+  }
+.btnDropzone.v-btn:not(.v-btn--round).v-size--default {
+  border-radius: 50% !important;
+  min-width: 114px;
+  height: 114px;
+  padding: 0;
+}

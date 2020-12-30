@@ -1,0 +1,146 @@
+.b-form-btn-label-control.form-control > label {
+  padding: 14px 0;
+  line-height: 1;
+}
+.custom-file-label {
+  display: none;
+}
+.v-text-field.v-text-field--outlined:not(.v-text-field--outlined-flat) > .v-input__control > .v-input__slot {
+  box-shadow: none;
+  border: none;
+}
+.v-text-field fieldset, .v-text-field .v-input__control {
+  border: none;
+}
+.v-input__slot {
+  margin-bottom: 0;
+  min-height: 45px;
+}
+.theme--light.v-text-field--outlined:not(.v-input--is-focused):not(.v-input--has-state)>.v-input__control>.v-input__slot fieldset {
+  border: none;
+}
+.v-text-field--filled > .v-input__control > .v-input__slot, .v-text-field--full-width > .v-input__control > .v-input__slot, .v-text-field--outlined > .v-input__control > .v-input__slot {
+  min-height: 45px;
+}
+.v-text-field--outlined .v-label {
+  top: 0;
+  font-size: 14px;
+}
+.v-text-field--full-width .v-input__prepend-outer, .v-text-field--full-width .v-input__prepend-inner, .v-text-field--full-width .v-input__append-inner, .v-text-field--full-width .v-input__append-outer, .v-text-field--enclosed .v-input__prepend-outer, .v-text-field--enclosed .v-input__prepend-inner, .v-text-field--enclosed .v-input__append-inner, .v-text-field--enclosed .v-input__append-outer {
+  margin-top: 9px;
+}
+.v-text-field.v-text-field--enclosed:not(.v-text-field--rounded) > .v-input__control > .v-input__slot, .v-text-field.v-text-field--enclosed .v-text-field__details {
+  padding: 0 11px 0 24px;
+}
+.v-text-field--outlined fieldset {
+  top: -8px;
+}
+.v-text-field__details {
+  display: none;
+}
+.v-picker {
+  width: auto;
+}
+.v-picker__title {
+  background-color: #3ba9fe;
+}
+.v-date-picker-title__year {
+  font-family: 'Anuphan-Regular';
+  font-size: 14px;
+  text-align: left;
+  line-height: 18px;
+  color: #fff;
+  opacity: 1 !important;
+}
+.v-date-picker-title__date {
+  font-family: 'Anuphan-Regular';
+  font-size: 22px;
+  text-align: left;
+  line-height: 28px;
+  color: #fff;
+  opacity: 1 !important;
+}
+.v-menu__content {
+  min-width: auto !important;
+}
+.v-date-picker-header__value button {
+  font-family: 'Anuphan-Regular';
+  font-size: 16px;
+  text-align: left;
+  line-height: 20px;
+  color: #000;
+}
+.theme--light.v-date-picker-table th, .theme--light.v-date-picker-table .v-date-picker-table--date__week {
+  font-family: 'Anuphan-Regular';
+  font-size: 14px;
+  line-height: 18px;
+}
+.v-date-picker-table .v-btn {
+  font-family: 'Anuphan-Regular';
+  line-height: 20px;
+}
+.v-date-picker-table {
+  padding: 8px 12px 12px;
+  height: auto;
+}
+.v-date-picker-years li {
+  font-family: 'Anuphan-Regular';
+  font-size: 14px;
+  line-height: 18px;
+}
+.theme--light.v-btn:not(.v-btn--flat):not(.v-btn--text):not(.v-btn--outlined) {
+  background-color: #3ba9fe;
+}
+.v-date-picker-table .v-btn.v-btn--active {
+  background-color: #3ba9fe;
+}
+.theme--light.v-input, .theme--light.v-input input, .theme--light.v-input textarea {
+  color: #617d8c;
+}
+.v-text-field.v-text-field--enclosed .v-text-field__details, .v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)>.v-input__control>.v-input__slot {
+  padding: 0 11px 0 24px;
+}
+.v-text-field--enclosed .v-input__append-inner, .v-text-field--enclosed .v-input__append-outer, .v-text-field--enclosed .v-input__prepend-inner, .v-text-field--enclosed .v-input__prepend-outer, .v-text-field--full-width .v-input__append-inner, .v-text-field--full-width .v-input__append-outer, .v-text-field--full-width .v-input__prepend-inner, .v-text-field--full-width .v-input__prepend-outer {
+  margin-top: 10px;
+}
+.v-text-field--filled>.v-input__control>.v-input__slot, .v-text-field--full-width>.v-input__control>.v-input__slot, .v-text-field--outlined>.v-input__control>.v-input__slot {
+  min-height: 45px;
+}
+.v-text-field--enclosed .v-input__append-inner, .v-text-field--enclosed .v-input__append-outer, .v-text-field--enclosed .v-input__prepend-inner, .v-text-field--enclosed .v-input__prepend-outer, .v-text-field--full-width .v-input__append-inner, .v-text-field--full-width .v-input__append-outer, .v-text-field--full-width .v-input__prepend-inner, .v-text-field--full-width .v-input__prepend-outer {
+  margin-top: 9px;
+}
+.v-text-field.v-text-field--enclosed .v-text-field__details, .v-text-field.v-text-field--enclosed:not(.v-text-field--rounded)>.v-input__control>.v-input__slot {
+  padding: 0 11px 0 24px;
+}
+.v-text-field>.v-input__control>.v-input__slot>.v-text-field__slot {
+  max-height: 45px;
+}
+.txtDateEClaim.v-text-field--enclosed .v-input__append-inner {
+  margin-top: -4px;
+}
+.txtDateEClaim.v-text-field--outlined fieldset {
+  height: 45px;
+  top: -15px;
+}
+.txtDateEClaim.v-text-field--outlined .v-label {
+  top: 0px;
+}
+.txtDateEClaim.v-text-field--outlined>.v-input__control>.v-input__slot {
+  min-height: 0;
+  padding: 0 !important;
+  margin-bottom: 0;
+}
+.txtDateEClaim > .v-text-field>.v-input__control>.v-input__slot>.v-text-field__slot {
+  max-height: 20px;
+  height: 45px;
+}
+.txtDateEClaim > .v-text-field input {
+  max-height: 45px;
+  height: 100%;
+}
+.v-input.txtDateEClaim input {
+  max-height: 20px !important;
+}
+#txtDateEclaim >.v-text-field--outlined .v-label {
+  top: 0;
+}

@@ -1,0 +1,17 @@
+.v-progress-circular {
+    margin: 80% 47%;
+    color: #3ba9fc;
+  }
+  .tel-menu {
+    top: 165px !important;
+  }
+ .tel-list {
+    box-shadow: none !important;
+    padding: 0;
+  }
+  .tel-link {
+    font-family: 'Anuphan-Regular';
+    font-size: 14px;
+    color: #2f2e41;
+    line-height: 20px;
+  }
