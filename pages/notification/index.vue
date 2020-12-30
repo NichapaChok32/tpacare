@@ -250,7 +250,7 @@ export default {
     async getNotifications() {
       const vm = this
       const response = await vm.$http.get(
-        `https://push-gears-mk2.appspot.com/push_message/?user=tpa_prod_${vm.profile.username}`
+        `https://push-gears-mk2.appspot.com/push_message/?user=tpa_dev_${vm.profile.username}`
       )
       const data = await response.json()
       vm.pushGearsList = data.results
