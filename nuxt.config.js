@@ -74,7 +74,7 @@ export default {
     [
       '@nuxtjs/axios',
       {
-        baseURL: 'https://tpacare-v3-prod.azurewebsites.net/api/v1/',
+        baseURL: 'https://tpacare-v2-dev.azurewebsites.net/api/v1/',
         headers: {
           common: {
             'Content-Type': 'application/json',
